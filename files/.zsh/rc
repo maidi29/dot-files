@@ -6,7 +6,6 @@
 . ~/.zsh/aliases
 . ~/.zsh/git-aliases
 . ~/.zsh/google-cloud
-. ~/.zsh/ruby
 . ~/.zsh/python
 . ~/.zsh/npm-completion
 . ~/.zsh/nvm

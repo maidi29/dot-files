@@ -1,18 +1,17 @@
 [push]
 	default = upstream
 [user]
-	name = Marius Colacioiu
-	email = marius.colacioiu@gmail.com
-	signingkey = 226C57CF
+	name = Mareike Haug
+	email = mareike.haug@web.de
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/marius/.gitignore
-	editor = vi
+	excludesfile = /Users/mareike/.gitignore
+	editor = code --wait
 [credential]
 	helper = osxkeychain
 [github]
-	user = colmarius
+	user = maidi29
 [diff]
 	submodule = log
 [column]
