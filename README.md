@@ -4,14 +4,14 @@ My _dot files_ configuration. After using a forked version for a while I decided
 
 Before reusing this configuration please change:
 
-- [files/.gitconfig](https://github.com/colmarius/dot-files/blob/main/files/.gitconfig)
-- [clone_and_link.sh](https://github.com/colmarius/dot-files/blob/main/clone_and_link.sh#L10)
+- [files/.gitconfig](https://github.com/maidi29/dot-files/blob/main/files/.gitconfig)
+- [clone_and_link.sh](https://github.com/maidi29/dot-files/blob/main/clone_and_link.sh#L10)
 
 ## Usage
 
-    bash <(curl -fsS https://raw.githubusercontent.com/colmarius/dot-files/main/clone_and_link.sh)
+    bash <(curl -fsS https://raw.githubusercontent.com/maidi29/dot-files/main/clone_and_link.sh)
 
-Optionally, follow steps in [SETUP.md](https://github.com/colmarius/dot-files/blob/main/SETUP.md)
+Optionally, follow steps in [SETUP.md](https://github.com/maidi29/dot-files/blob/main/SETUP.md)
 
 ## Credits
 
