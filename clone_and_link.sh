@@ -4,10 +4,10 @@ pushd "$HOME"
 
   if [ -d ".dot-files" ]; then
     pushd ".dot-files"
-      git smart-pull
+      git pull
     popd
   else
-    git clone "git@github.com:colmarius/dot-files.git" ".dot-files"
+    git clone "git@github.com:maidi29/dot-files.git" ".dot-files"
   fi
 
   ls -1d .dot-files/files/* .dot-files/files/.* | while read f; do
